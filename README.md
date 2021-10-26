@@ -11,5 +11,5 @@ npm run dev
 
 动图：
 
-<img src="/assert/mov.gif" alt="截图" title="截图" style="">
+<img src="/mov1.gif" alt="截图" title="截图" style="">
 
